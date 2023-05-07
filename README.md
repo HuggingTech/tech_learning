@@ -41,4 +41,3 @@
     <img src="./pictures/jgssj.png" width = "600" />
     </p>
 
-  * https://labuladong.github.io/article/fname.html?fname=学习数据结构和算法的高效方法)
