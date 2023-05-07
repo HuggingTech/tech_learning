@@ -41,15 +41,27 @@
     <img src="./pictures/jgssj.png" width = "600" />
     </p>
 
-  * [微服务进阶视频](链接: https://pan.baidu.com/s/1AiZYhl1KEOpFlmn5DXuzwg?pwd=nvuk)
+  * [微服务进阶视频](https://pan.baidu.com/s/1AiZYhl1KEOpFlmn5DXuzwg?pwd=nvuk)
 
     <p align='center'>
     <img src="./pictures/1_4.png" width = "600" />
     </p>
 
-  * [58套资深专家简历模板](链接: https://pan.baidu.com/s/1Za-L8de5rxkYMIVEOvLnrA?pwd=epk4)
+  * [58套资深专家简历模板](https://pan.baidu.com/s/1Za-L8de5rxkYMIVEOvLnrA?pwd=epk4)
 
     <p align='center'>
-    <img src="./pictures/1_4.png" width = "600" />
+    <img src="./pictures/1_5.png" width = "600" />
+    </p>
+
+  * [阿里技术手册](https://pan.baidu.com/s/1WWPEaRZgHT7HB18D2ReqVA?pwd=rx3g )
+
+    <p align='center'>
+    <img src="./pictures/1_6.png" width = "600" />
+    </p>
+  * [阿里精选205本电子书](https://www.aliyundrive.com/s/gr3UxYZNStv )
+
+    <p align='center'>
+    <img src="./pictures/1_7_0.png" width = "500" />
+    <img src="./pictures/1_7_1.png" width = "500" />
     </p>
 
