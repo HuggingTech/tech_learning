@@ -23,19 +23,19 @@
 # 文章目录
 
 ### [找工作助手]
-  * [一线企业面试笔试真题](链接: https://pan.baidu.com/s/14mCW1L4PpFogQfRbzYiFFQ?pwd=r7hn 提取码: r7hn )
+  * [一线企业面试笔试真题]( https://pan.baidu.com/s/14mCW1L4PpFogQfRbzYiFFQ?pwd=r7hn 提取码: r7hn )
 
     <p align='center'>
     <img src="./pictures/mst.png" width = "600" />
     </p>
 
-  * [架构师进阶视频](链接: https://pan.baidu.com/s/1bvTvYvraKCyfLCe51YSA8Q?pwd=5px8 提取码: 5px8[)
+  * [架构师进阶视频](https://pan.baidu.com/s/1bvTvYvraKCyfLCe51YSA8Q?pwd=5px8 提取码: 5px8[)
 
     <p align='center'>
     <img src="./pictures/jgsjj.png" width = "600" />
     </p>
 
-  * [高级架构师精品书籍](链接: https://pan.baidu.com/s/1pJyI8ySX1-59n529i5jS9g?pwd=m6w2 提取码: m6w2[)
+  * [[高级架构师精品书籍\]]: https://pan.baidu.com/s/1pJyI8ySX1-59n529i5jS9g?pwd=m6w2
 
     <p align='center'>
     <img src="./pictures/jgssj.png" width = "600" />
