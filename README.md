@@ -35,7 +35,7 @@
     <img src="./pictures/jgsjj.png" width = "600" />
     </p>
 
-  * [[高级架构师精品书籍\]]: https://pan.baidu.com/s/1pJyI8ySX1-59n529i5jS9g?pwd=m6w2
+    [高级架构师精品书籍]: https://pan.baidu.com/s/1pJyI8ySX1-59n529i5jS9g?pwd=m6w2
 
     <p align='center'>
     <img src="./pictures/jgssj.png" width = "600" />
