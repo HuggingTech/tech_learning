@@ -35,9 +35,21 @@
     <img src="./pictures/jgsjj.png" width = "600" />
     </p>
 
-    [架构师精品书籍](https://pan.baidu.com/s/1pJyI8ySX1-59n529i5jS9g?pwd=m6w2)
+  * [架构师精品书籍](https://pan.baidu.com/s/1pJyI8ySX1-59n529i5jS9g?pwd=m6w2)
 
     <p align='center'>
     <img src="./pictures/jgssj.png" width = "600" />
+    </p>
+
+  * [微服务进阶视频](链接: https://pan.baidu.com/s/1AiZYhl1KEOpFlmn5DXuzwg?pwd=nvuk)
+
+    <p align='center'>
+    <img src="./pictures/1_4.png" width = "600" />
+    </p>
+
+  * [58套资深专家简历模板](链接: https://pan.baidu.com/s/1Za-L8de5rxkYMIVEOvLnrA?pwd=epk4)
+
+    <p align='center'>
+    <img src="./pictures/1_4.png" width = "600" />
     </p>
 
