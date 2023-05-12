@@ -64,4 +64,8 @@
     <img src="./pictures/1_7_0.png" width = "500" />
     <img src="./pictures/1_7_1.png" width = "500" />
     </p>
+  * [项目管理](https://www.aliyundrive.com/s/gr3UxYZNStv )
 
+    <p align='center'>
+    <img src="./pictures/1_8.png" width = "500" />
+    </p>
