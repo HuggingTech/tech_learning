@@ -20,7 +20,7 @@
 <img src="./pictures/tt.png" width = "400" />
 </p>
 
-# 文章目录
+# 文章目录{点击标题可免费获取}
 
 ### 找工作助手
   * [一线企业面试笔试真题]( https://pan.baidu.com/s/14mCW1L4PpFogQfRbzYiFFQ?pwd=r7hn)
@@ -64,7 +64,7 @@
     <img src="./pictures/1_7_0.png" width = "500" />
     <img src="./pictures/1_7_1.png" width = "500" />
     </p>
-  * [项目管理](https://www.aliyundrive.com/s/gr3UxYZNStv )
+  * [项目管理](https://pan.baidu.com/s/1koSHTWu6X2E_w8pWiwEHSQ?pwd=nxst)
 
     <p align='center'>
     <img src="./pictures/1_8.png" width = "500" />
