@@ -40,7 +40,7 @@
 # 文章目录
 ### 点击标题可免费获取
 
-### 找工作助手
+### 找工作助手链接:
   * [一线企业面试笔试真题]( https://pan.baidu.com/s/14mCW1L4PpFogQfRbzYiFFQ?pwd=r7hn)
 
     <p align='center'>
@@ -87,3 +87,6 @@
     <p align='center'>
     <img src="./pictures/1_8.png" width = "500" />
     </p>
+### AI:
+  * [图解机器学习](https://pan.baidu.com/s/1ncynh1OrQV9HB-201gZMyw?pwd=egfs)
+  * [机器学习10大经典算法](https://pan.baidu.com/s/1uYU0bVDQu-axH_nykrLkFA?pwd=qc4b)
