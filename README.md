@@ -38,9 +38,10 @@
 7. 商业解决方案
     
 # 文章目录
-### 点击标题可免费获取
+### 点击标题可免费获取 【**如遇到网盘链接失效，请联系上述二维码**】
 
 ### 找工作助手链接:
+  * [线性表、哈希表及字符串算法相关]( https://pan.baidu.com/s/1_GkRAU07P7Vd3pVxE9tzqQ?pwd=dm9f)
   * [一线企业面试笔试真题]( https://pan.baidu.com/s/14mCW1L4PpFogQfRbzYiFFQ?pwd=r7hn)
 
     <p align='center'>
