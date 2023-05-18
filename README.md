@@ -89,4 +89,5 @@
     </p>
 ### AI:
   * [图解机器学习](https://pan.baidu.com/s/1ncynh1OrQV9HB-201gZMyw?pwd=egfs)
-  * [机器学习10大经典算法](https://pan.baidu.com/s/1uYU0bVDQu-axH_nykrLkFA?pwd=qc4b)
+  * [机器学习10大经典算法](https://pan.baidu.com/s/1uYU0bVDQu-axH_nykrLkFA?pwd=qc4b)   
+  * [机器学习算法全套视频](https://pan.baidu.com/s/1J-W3t7I_okgJPccoZKtWhw?pwd=ip95)  
